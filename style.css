@@ -43,7 +43,9 @@
 }
 
 #btnf{
-    margin-left: 900px;
+    background-color: #FE8C45; 
+    border-radius: 100px;
+    margin-left: 630px
     
 }
 .feed{
