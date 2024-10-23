@@ -1,0 +1,64 @@
+.btn{
+    background-color: #FE8C45;
+    border-radius: 25px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+
+.btn2{ color: #8A47F6;}
+#Range{ 
+    width: 150px;
+    height: 15px;
+    gap: 0px;
+    border-radius: 75px;
+    opacity: 0px;
+    background-color:#8A47F6 ;
+    margin-left: 120px;
+
+}
+#about{
+    background-color: #F3EDFE;
+    width: 100%;
+    
+    
+}
+
+
+}
+ #span{
+    color: #8A47F6;
+}
+#fil{
+    padding: 3px;
+    background-color: #F3EDFE;
+    padding-left: 400px;
+   
+
+    
+}
+#client{
+    background-color: #E3D4FD;
+    border-radius: 25px;
+}
+
+#btnf{
+    margin-left: 900px;
+    
+}
+.feed{
+    margin-left: 50px;
+}
+#get{
+    background-color: #EDE3FE;  
+    margin-top: 170px;
+    border-radius: 5px;
+    margin-bottom: 98px; 
+}
+#footer{
+    height: 100px;
+}
+.fimg{
+    padding-left: 1200px;
+    padding-bottom: 50px;
+}
